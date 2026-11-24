@@ -1,0 +1,5 @@
+python.svg, c.svg, git.svg
+Source: Simple Icons (https://simpleicons.org), obtained via the react-icons package (https://react-icons.github.io/react-icons/).
+Licence: CC0 1.0 Universal (public domain dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+The brand names and marks belong to their respective owners (Python Software Foundation, Git project / Software Freedom Conservancy).
+Colours are each brand's official colour.

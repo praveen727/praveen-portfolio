@@ -1,0 +1,5 @@
+word.svg, excel.svg, powerpoint.svg
+Source: Font Awesome Free "file-word", "file-excel", "file-powerpoint" icons (https://fontawesome.com), obtained via react-icons.
+Licence: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/ - https://fontawesome.com/license/free
+Attribution: "Font Awesome Free by @fontawesome - https://fontawesome.com".
+These are generic file-type glyphs (not the Microsoft product logos) tinted with the Microsoft Office app colours so they are recognisable.
